@@ -1,0 +1,15 @@
+Message type 1  list example:
+
+[{"productName":"Apple","sale":{"unitPrice":10}},{"productName":"Strawberry","sale":{"unitPrice":80}},{"productName":"Apple","sale":{"unitPrice":10}},{"productName":"Strawberry","sale":{"unitPrice":80}},{"productName":"Strawberry","sale":{"unitPrice":80}},{"productName":"Apple","sale":{"unitPrice":10}},{"productName":"Strawberry","sale":{"unitPrice":80}},{"productName":"Apple","sale":{"unitPrice":10}},{"productName":"Apple","sale":{"unitPrice":10}},{"productName":"Apple","sale":{"unitPrice":10}},{"productName":"Apple","sale":{"unitPrice":10}},{"productName":"Apple","sale":{"unitPrice":10}},{"productName":"Strawberry","sale":{"unitPrice":80}},{"productName":"Apple","sale":{"unitPrice":10}},{"productName":"Apple","sale":{"unitPrice":10}},{"productName":"Apple","sale":{"unitPrice":10}}]
+
+
+Message type 2  list example:
+
+[{"productName":"watermelon","sale":{"occurrences":3,"unitPrice":40}},{"productName":"melon","sale":{"occurrences":5,"unitPrice":50}},{"productName":"orange","sale":{"occurrences":200,"unitPrice":5}},{"productName":"melon","sale":{"occurrences":5,"unitPrice":50}},{"productName":"melon","sale":{"occurrences":5,"unitPrice":50}},{"productName":"watermelon","sale":{"occurrences":3,"unitPrice":40}},{"productName":"melon","sale":{"occurrences":5,"unitPrice":50}},{"productName":"orange","sale":{"occurrences":200,"unitPrice":5}},{"productName":"melon","sale":{"occurrences":5,"unitPrice":50}},{"productName":"melon","sale":{"occurrences":5,"unitPrice":50}},{"productName":"watermelon","sale":{"occurrences":3,"unitPrice":40}},{"productName":"melon","sale":{"occurrences":5,"unitPrice":50}},{"productName":"orange","sale":{"occurrences":200,"unitPrice":5}},{"productName":"melon","sale":{"occurrences":5,"unitPrice":50}},{"productName":"melon","sale":{"occurrences":5,"unitPrice":50}}]
+
+
+All message types (1, 2, 3) json list example:
+ 
+[{"productName":"peach","sale":{"unitPrice":2}},{"productName":"peach","sale":{"occurrences":10,"unitPrice":2}},{"adjustment":{"factor":5,"operation":"MULTIPLY"},"productName":"peach","sale":{"occurrences":2,"unitPrice":2}},{"productName":"melon","sale":{"unitPrice":2}},{"productName":"peach","sale":{"occurrences":10,"unitPrice":2}},{"productName":"water","sale":{"occurrences":2,"unitPrice":2}}]
+
+

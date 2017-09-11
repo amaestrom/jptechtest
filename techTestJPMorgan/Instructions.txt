@@ -1,0 +1,6 @@
+1. To execute the test run in src/main/java the class com.jpmorgan.techtest.main.Main
+
+2. The input msg format must be a json list format, (mandatory).
+
+3. There is some sample data in the file JsonSampleData located in src/main/resources
+
